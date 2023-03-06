@@ -1,4 +1,11 @@
 ### Hi there 👋
+### I am Annie
+
+I work as a FullStack Junior Developer! 🔭
+Studying System Analysis and Development and following content around game development! 🌱
+
+⚡ Fun fact: Blue whales are the largest animals on earth. However, the largest living organism is a fungus that's roughly tens of thousands of acres in size 🍄 
+
 
 <!--
 **AnnieFL/AnnieFL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
